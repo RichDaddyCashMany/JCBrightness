@@ -14,3 +14,4 @@
 [JCBrightness graduallyResumeBrightness];
 ```
 
+实现原理：<http://www.jianshu.com/p/956299d94dfc>
